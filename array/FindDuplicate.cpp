@@ -13,7 +13,6 @@ int main()
     {
         cin >> nums[i];
     }
-    
     sort(nums, nums + n);
     for (int i = 0; i < n; i++)
     {
