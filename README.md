@@ -1,3 +1,4 @@
 # DSA
 TwoSum problem solved 
-FindDuplicate prblem solved 
+FindDuplicate problem solved 
+StockBuy&Sell problem solved
