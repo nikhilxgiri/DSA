@@ -1,10 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int n , lowest , highest ;
+    int n ,lowest ,highest;
     cout << "Enter n: ";
     cin >> n;
-
     int prices[100000];
     for(int i = 0; i < n; i++){
         cin >> prices[i];
